@@ -6,7 +6,7 @@
 
 This project presents an interactive **Netflix Content Analytics Dashboard** developed using **Power BI** to analyze Netflix's global content library. The dashboard provides comprehensive insights into movies and TV shows by visualizing content distribution, release trends, genre popularity, content ratings, and country-wise availability. Interactive filters enable users to explore the dataset dynamically, making it easier to identify trends and gain meaningful business insights.
 
- [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Netflix-Content-Analytics-Dashboard/blob/49205961a95a54c1c6cc32a108cd51edc23f4a07/Netflix_Content_Analytics_Dashboard.pbix)
+ [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Tata-Sales-Analysis-Dashboard/blob/f4ab6b63c64473b815dd6c0130112817f0b75f4f/TATA_Motors_Financial%20and%20Sales_Analysis_Dashboard.pbix)
 <br><br>
 
 ## Business Challenge
@@ -37,7 +37,7 @@ Using **Power BI**, an interactive dashboard was designed to consolidate key Net
 
 ## Netflix-Content-Analytics-Dashboard Overview
 
-<img src="https://github.com/Sanketnaik-467/Netflix-Content-Analytics-Dashboard/blob/49205961a95a54c1c6cc32a108cd51edc23f4a07/Netflix_Content_Aanalytical_Dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/Sanketnaik-467/Tata-Sales-Analysis-Dashboard/blob/f4ab6b63c64473b815dd6c0130112817f0b75f4f/TATA_Motors_Financial%20and%20Sales_Analysis_Dashboard.png" alt="Image Description" width="600">
 
 ## Outcome
 
