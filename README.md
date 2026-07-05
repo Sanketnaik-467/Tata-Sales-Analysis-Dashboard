@@ -1,37 +1,36 @@
-# Tata-Sales-Analysis-Dashboard
-# Netflix-Content-Analytics-Dashboard
-# 📊  # Netflix-Content-Analytics-Dashboard | Power BI
+# Tata-Sales & Financial-Analysis-Dashboard
+# 📊  # Tata-Sales & Financial-Analysis-Dashboard | Power BI
 
 ## Overview
 
-This project presents an interactive **Netflix Content Analytics Dashboard** developed using **Power BI** to analyze Netflix's global content library. The dashboard provides comprehensive insights into movies and TV shows by visualizing content distribution, release trends, genre popularity, content ratings, and country-wise availability. Interactive filters enable users to explore the dataset dynamically, making it easier to identify trends and gain meaningful business insights.
+This project presents an interactive **Tata Motors Financial & Sales Performance Dashboard** developed using **Power BI** to analyze key financial and sales metrics across global markets. The dashboard provides business leaders with a centralized view of revenue, profitability, cash flow, sales performance, and regional trends through interactive visualizations and dynamic filters. It enables users to evaluate business performance, identify high-performing markets, and support strategic decision-making with real-time insights.
 
  [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Tata-Sales-Analysis-Dashboard/blob/f4ab6b63c64473b815dd6c0130112817f0b75f4f/TATA_Motors_Financial%20and%20Sales_Analysis_Dashboard.pbix)
 <br><br>
 
 ## Business Challenge
 
-With thousands of movies and TV shows available across multiple countries, understanding content distribution and viewing trends can be challenging. Without a centralized analytical dashboard, it becomes difficult to monitor content growth, identify popular genres, analyze rating distributions, and compare Movies versus TV Shows.
-
-The objective of this project is to transform raw Netflix content data into an interactive business intelligence dashboard that enables users to explore content trends, geographical distribution, genre performance, and rating classifications for better data-driven analysis.
+Managing financial and sales performance across multiple countries requires continuous monitoring of revenue, profitability, and operational efficiency. Traditional reporting methods often make it difficult to identify market trends, compare regional performance, and evaluate financial health effectively. This dashboard addresses these challenges by consolidating financial and sales data into an interactive reporting solution that delivers meaningful insights for informed business decisions.
 
 ## Solution
 
-Using **Power BI**, an interactive dashboard was designed to consolidate key Netflix content metrics into a single reporting interface. The dashboard provides visual insights into total titles, movies, TV shows, countries available, yearly content additions, top-performing genres, content rating distribution, country-wise content availability, and the proportion of Movies versus TV Shows. Interactive slicers for Country, Type, Duration, and Release Year allow users to perform dynamic filtering and detailed analysis.
+Using **Power BI**, the financial and sales dataset was transformed into an executive-level business intelligence dashboard. Interactive slicers enable users to filter data by **Year**, **Country**, and **Currency**, while KPI cards provide a quick overview of essential business metrics. The dashboard combines revenue trends, country-wise sales performance, financial indicators, cash flow analysis, and strategic insights into a single reporting interface, allowing users to monitor business performance efficiently and make data-driven decisions.
 
 ## Key Features
 
-• Interactive KPI cards displaying Total Titles, Movies, TV Shows, and Countries Available.
+• Interactive KPI cards displaying Units Sold, Total Revenue, Net Profit, EBITDA, Average Profit, and Cash Flow.
 
-• Year-wise analysis showing the growth of Netflix content added over time..
+•Revenue Trend analysis to monitor financial performance across different years.
 
-• Top 10 genre visualization highlighting the most popular content categories.
+•Revenue by Country map for geographical sales and revenue analysis.
 
-• Movies vs TV Shows comparison using a donut chart for quick content segmentation.
+•Top Countries by Revenue visualization for market performance comparison.
 
-• Dynamic slicers for Country, Type, Duration, and Release Year enabling flexible exploration.
+•Cash Flow Trend analysis to evaluate financial stability over time.
 
-• Content Rating Distribution analysis across various audience classifications.
+•Revenue Distribution of Top 5 Countries for regional contribution analysis.
+
+•Dynamic slicers for Year, Country, and Currency filtering.
 
 ## Dashboard Preview
 
@@ -41,4 +40,4 @@ Using **Power BI**, an interactive dashboard was designed to consolidate key Net
 
 ## Outcome
 
-This dashboard successfully transforms raw Netflix content data into an interactive business intelligence solution. It enables users to analyze content trends, identify popular genres, evaluate country-wise content distribution, compare Movies and TV Shows, and understand audience rating patterns. By integrating interactive visualizations with dynamic filtering capabilities, the dashboard demonstrates practical expertise in **Power BI, data visualization, dashboard design, KPI reporting, and exploratory data analysis**, making it a valuable portfolio project for business intelligence and data analytics.
+This dashboard transforms Tata Motors' financial and sales data into an interactive business intelligence solution that enables effective financial monitoring, sales analysis, and strategic decision-making. By integrating KPI reporting, trend analysis, geographical insights, cash flow monitoring, and regional revenue analysis into a single dashboard, the project demonstrates practical expertise in **Power BI, DAX, data visualization, business intelligence, and financial analytics.** It serves as a professional portfolio project showcasing the ability to convert complex business data into meaningful and actionable insights for organizational growth.
